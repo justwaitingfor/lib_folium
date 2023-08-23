@@ -1,0 +1,4 @@
+html
+folium
+panel
+awesome_panel
