@@ -2,4 +2,4 @@ folium
 panel
 awesome_panel
 awesome-panel-extensions
-bokeh==3.2.2
+bokeh==3.0.2
